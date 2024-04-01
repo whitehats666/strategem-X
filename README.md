@@ -1,0 +1,2 @@
+#strategem x
+#game
